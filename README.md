@@ -7,7 +7,7 @@
 % Example data and code to accompany this manuscript:
   Wise, Erika K. and Matthew P. Dannenberg (2019). Climate Factors Leading  
   to Asymmetric Extreme Capture in the Tree-Ring Record, Geophysical  
-  Research Letters. (to be updated post-publication)
+  Research Letters, 46, https://doi.org/10.1029/2019GL082295
 
 % Using the example file, you can input existing tree-ring and climate data to 
  see if high and low climate extremes are captured by the tree-ring records.
